@@ -1,0 +1,22 @@
+h1 {
+    color:coral;
+    font-size: 70px;
+    margin: 0px;
+    background-color: indigo;
+    text-align:center
+    }
+p {
+    color:rgb(247, 115, 135);
+    font-size: 15px;
+    }
+body{
+    color:lightslategrey;
+    background-color: papayawhip;
+    }
+ol{
+    color:palevioletred;
+    font-size: 30px;
+    }
+ul {
+    color:#FF9F1C
+}
