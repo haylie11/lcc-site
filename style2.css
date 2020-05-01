@@ -1,0 +1,23 @@
+body {
+    background-color: #CC5A71;
+    font-family: fantasy;
+}
+
+h2 {
+    color: #7CAFC4;
+}
+
+.img-puppy {
+    border: #FCFF4B;
+    border-radius: 50px;
+   
+}
+
+p {
+    color: #34344A;
+}
+
+.img-puppy2 {
+    filter: invert(5);
+    border-radius: 50px;
+}
