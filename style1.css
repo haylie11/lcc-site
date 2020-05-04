@@ -1,13 +1,24 @@
 p {
-    color: #F5CAC3
+    color: #1ea896
+}
+
+ul {
+    color: #F6BD60 
+}
+
+li {
+    color: #F6BD60 
 }
 
 a {
     color: #F6BD60 
 }
-
 body {
+    margin-top: 50px;
+    text-align: center;
+    height: 1000px;
     background-color: #14213D;
+    background-image: linear-gradient(to bottom right, #14213D, #CB48B7);
 }
 
 h1 {
