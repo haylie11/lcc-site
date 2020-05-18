@@ -28,7 +28,7 @@ h1 {
     font-size: 60px;
 }
 
-#one {
+.one {
     border: 3px solid #F6BD60;
     border-radius: 5px;
     width: 50%;
