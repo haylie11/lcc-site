@@ -1,0 +1,38 @@
+table {
+	background: #F0CF65;
+	border: 1px solid #C33149;
+	width: 800px;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+tr {
+}
+
+th {
+	border: 1px solid #C33149;
+	background: #C33149;
+    color: #ddd;
+    font-family: 'Quicksand', sans-serif;
+}
+
+td {
+	border: 1px solid #C33149;
+    padding: 1rem;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+td:hover {
+	background: #EF7674;
+}
+
+body {
+    background-color: #0E7C7B;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: #F0CF65;
+}
