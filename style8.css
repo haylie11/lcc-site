@@ -1,0 +1,24 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+  }
+  
+  @keyframes example {
+    0%   {background-color:#D741A7; left:0px; top:0px;}
+    25%  {background-color:#3A1772; left:200px; top:0px;}
+    50%  {background-color:#5398BE; left:200px; top:200px;}
+    75%  {background-color:#F2CD5D; left:0px; top:200px;}
+    100% {background-color:#D741A7; left:0px; top:0px;}
+  }
+
+  body {
+      background-color: black;
+  }
